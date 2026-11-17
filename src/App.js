@@ -22,7 +22,7 @@ function App() {
     justifyContent: "center",
     alignItems: "center",
     boxSizing:"border-box"
-      
+        
     }}
   >
      <div
